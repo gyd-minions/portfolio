@@ -74,6 +74,11 @@ section {
 article {
   width: 100%;
 }
+
+.flex_container {
+  margin-bottom: 5rem;
+}
+
 .container {
   width: 100%;
   max-width: 60rem;
